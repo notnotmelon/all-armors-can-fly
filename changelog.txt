@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 2024-12-25
+  Bugfixes:
+    - Added hard dependancy on "enable-all-feature-flags". Resolves https://github.com/notnotmelon/all-armors-can-fly/issues/1
+---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: 2024-10-18
   Bugfixes:
