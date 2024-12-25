@@ -6,7 +6,7 @@
   "homepage": "https://github.com/notnotmelon/all-armors-can-fly",
   "description": "Gives all armors a jetpack. Fly over obstacles!",
   "factorio_version": "2.0",
-  "dependencies": [],
+  "dependencies": ["base", "enable-all-feature-flags"],
   "quality_required": false,
   "space_travel_required": true,
   "spoiling_required": false,
